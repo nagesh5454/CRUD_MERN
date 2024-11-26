@@ -34,18 +34,20 @@ A simple MERN stack application for managing contacts with basic CRUD (Create, R
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
 
 ### . Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
-
+```
 ### 2. Start Backend
 
 ```bash
 nodemon server.js
-
+```
 ### 3. Start Frontend
 ```bash
  npm run dev
+```
